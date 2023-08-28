@@ -14,5 +14,6 @@ public class C01class {
 }
 class MyClass01 {
     int age;
+    String name;
 
 }
