@@ -14,6 +14,7 @@ public class C09method {
 		System.out.println("메소드 호출 후");
 		System.out.println(c[0]);
 
+
 	}
 	public static void method1(int p) {
 		System.out.println(p);
